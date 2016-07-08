@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Semana de Tecnologia - Unigranrio 2016"
+email: "techweek@unigranrio.edu.br"
+description: "Semana de Tecnologia, um evento que ocorre de ano em ano na Unigranrio."
 baseurl: "/semana-informatica"
-url: "https://gdg-x.github.io"
+url: "semanatecnologia.unigranrio.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -66,19 +66,19 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Sobre a Semana de Tecnologia"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Data Mining", image: "bigdata.jpg", text: "Palestras sobre mineração de dados trazendo uma experiência divertida e de grande valor!." }
+ - {title: "Internet of Things", image: "iot.png", text: "Palestras, debates, demonstrações e minicursos sobre a Internet das Coisas." }
+ - {title: "Development", image: "dev.png", text: "Palestras e minicursos sobre novas linguagens, frameworks modernos e muito mais." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "100", specialCharacter: "+", info: "participantes", detail: ""}
+ - {count: "72", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
+ - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "sinistros"}
+ - {count: "3", specialCharacter: "", info: "dias", detail: "de puro aprendizado"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,20 +90,20 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+locationBlockTitle: "Localização"
+eventLocationName: "Universidade Unigranrio"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
+eventStreetAddress: "Rua Professor José de Souza Herdy, 1160"
+eventAddressLocality: "Duque de Caxias"
+eventAddressLocalityRegion: "Rio de Janeiro"
 eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventAddressCountry: "Brasil"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "-22.7891254, -43.3061874"
+mapCenterCoordinates: "-22.7891254, -43.3061874"
+mapMobileCenterCoordinates: "-22.7891254, -43.3061874"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -121,15 +121,15 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organização"
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Fique por dentro!"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "O seu e-mail será guardado numa lista para que enviemos informaçõe sobre o evento"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
