@@ -86,17 +86,17 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Os Palestrantes"
+rockstarSpeakersButtonText: "Ver todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "Universidade Unigranrio"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "#"
 eventStreetAddress: "Rua Professor José de Souza Herdy, 1160"
 eventAddressLocality: "Duque de Caxias"
 eventAddressLocalityRegion: "Rio de Janeiro"
-eventPostalCode: "79000"
+eventPostalCode: ""
 eventAddressCountry: "Brasil"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
@@ -106,13 +106,13 @@ mapCenterCoordinates: "-22.7891254, -43.3061874"
 mapMobileCenterCoordinates: "-22.7891254, -43.3061874"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
+venueBlockTitle: "Unigranrio"
+venueBigImage: "auditorio.png"
+venueSmallImage1: "bliblioteca.png"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Auditório Unigranrio"
+venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", "Localizado dentro da Universidade"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
