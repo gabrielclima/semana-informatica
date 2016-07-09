@@ -17,7 +17,7 @@
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 8
+        "nb_sides": 5
       },
       "image": {
         "src": "img/github.svg",
@@ -54,7 +54,7 @@
     },
     "move": {
       "enable": true,
-      "speed": 6,
+      "speed": 9.838726868743176,
       "direction": "none",
       "random": false,
       "straight": false,
@@ -72,7 +72,7 @@
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "repulse"
+        "mode": "grab"
       },
       "onclick": {
         "enable": true,
@@ -82,9 +82,9 @@
     },
     "modes": {
       "grab": {
-        "distance": 400,
+        "distance": 174.44323534053805,
         "line_linked": {
-          "opacity": 1
+          "opacity": 0.4377104377104379
         }
       },
       "bubble": {
