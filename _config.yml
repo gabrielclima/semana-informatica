@@ -62,7 +62,7 @@ eventDate: "Setembro, 2016"
 typeoutTextValues: '"", "Data Science", "IoT", "Development"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Seja um Palestrante"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
