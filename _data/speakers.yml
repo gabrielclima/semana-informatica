@@ -14,6 +14,21 @@
     - {name: "twitter", link: "https://twitter.com/gabrielclima"}
     - {name: "github", link: "https://github.com/gabrielclima"}
 -
+  id: 12
+  name: "Gabriel"
+  surname: "Lima"
+  company: "GDG Caxias"
+  title: "Organizador GDG Caxias, Desenvolvedor Unigranrio"
+  bio: "Gabriel é organizer e fundador do GDG Duque de Caxias. Gabriel também é um dos idealizadores e criadores do AppUnigranrio, aplicativo que auxilia alunos de graduação e pós-graduação nas tarefas e acompanhamento da vida acadêmica. Gabriel faz parte de alguns projetos open-source e está sempre ligado em tecnologias novas. Fanboy de Android, Java, AngularJS e Ionic."
+  thumbnailUrl: DawidOstrowski.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+    - {name: "twitter", link: "https://twitter.com/gabrielclima"}
+    - {name: "github", link: "https://github.com/gabrielclima"}
+-
   id: 4
   name: "Dmytro"
   surname: "Danylyk"
