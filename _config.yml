@@ -44,9 +44,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Equipe"}
+ #- {permalink: "/team/", text: "Equipe"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -175,24 +175,23 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/114684774037479279638/", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgcaxias", icon: "twitter"}
+ - {link: "https://www.facebook.com/gdgduquedecaxias/", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.unigranrio.br/", text: "Universidade Unigranrio"}
+   - {link: "http://gdgduquedecaxias.github.io/", text: "GDG Duque de Caxias"}
+   - {link: "http://www.meetup.com/pt-BR/GDG-Duque-de-Caxias/", text: "GDG Duque de Caxias - MeetUp"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contatos"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:gabrielcastrolima35@gmail.com", text: "gabrielcastrolima35@gmail.com"}
+   - {link: "mailto:thiagosilva@gmai.com", text: "thiagosilva@gmail.com"}
+   - {link: "mailto:gabrielcastrolima35@gmail.com", text: "gdgcaxiasrj@gmail.com"}
 
 # Blog
 blogTitle: "Latest news"
@@ -203,7 +202,7 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Sobre nós"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
