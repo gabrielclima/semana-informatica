@@ -1,10 +1,10 @@
-- 
+-
   date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+  dateReadable: "21 de Setembro"
+  tracks:
+    - {title: "Data Mining", color: "#90be4e"}
+    - {title: "Desenvolvimento", color: "#03a9f4"}
+    - {title: "IoT", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -21,13 +21,13 @@
     	endTime: "11:45",
     	sessionIds: [307]
     }
-- 
+-
   date: "2014-10-25"
   dateReadable: "October 25"
-  tracks: 
+  tracks:
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
+  timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:45",
